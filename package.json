@@ -1,0 +1,8 @@
+{
+  "name": "Aplicacion web",
+  "version": "1.0.0",
+  "dependencies": {
+    "mysql": "*",
+    "express": "~4.5.1"
+  }
+}
